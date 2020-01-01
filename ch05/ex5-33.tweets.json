@@ -1,0 +1,4 @@
+// 예제 5-33 JSON으로 된 샘플 트위터 메시지
+
+{"user": {"name": "Holden", "location": "San Francisco"}, "text": "Nice day out today"}
+{"user": {"name": "Matei", "location": "Berkeley"}, "text": "Even nicer here:)"}

@@ -1,0 +1,12 @@
+<!-- 예제 5-39 카산드라 커넥터를 위한 메이븐 설정 -->
+
+<dependency> <!-- Cassandra -->
+  <groupId>com.datastax.spark</groupId>
+  <artifactId>spark-cassandra-connector</artifactId>
+  <version>1.0.0-rc5</version>
+</dependency>
+<dependency> <!-- Cassandra -->
+  <groupId>com.datastax.spark</groupId>
+  <artifactId>spark-cassandra-connector-java</artifactId>
+  <version>1.0.0-rc5</version>
+</dependency>
