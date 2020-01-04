@@ -1,0 +1,6 @@
+// 예제 6-1 일부 필드가 생략된 JSON 형태의 콜 로그
+
+{"address":"address here", "band":"40m","callsign":"KK6JLK","city":"SUNNYVALE",
+"contactlat":"37.384733","contactlong":"-122.032164",
+"county":"Santa Clara","dxcc":"291","fullname":"MATTHEW McPherrin",
+"id":57779,"mode":"FM","mylat":"37.751952821","mylong":"-122.4208688735",...}
