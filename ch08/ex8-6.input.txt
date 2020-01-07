@@ -1,0 +1,12 @@
+## 예제 8-6 예제에 쓸 입력 파일 input.txt
+
+## input.txt ##
+INFO This is a message with content
+INFO This is some other content
+(빈 라인)
+INFO Here are more messages
+WARN This is a warning
+(빈 라인)
+ERROR Something bad happend
+WARN More details on the bad thing
+INFO back to normal messages
