@@ -1,0 +1,8 @@
+예제 9-25 printSchema()로 출력된 결과 스키마
+
+root
+|-- knows: struct (nullable = true)
+|     |-- friends: array (nullable = true)
+|     |    |-- element: string (containsNull = false)
+|-- lovesPandas: boolean (nullable = true)
+|-- name: string (nullable = true)

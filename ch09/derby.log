@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jan 09 06:58:08 KST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-016f-872a-3667-00001c0f0a70 
+on database directory /home/fx/work/Learning_Spark/ch09/metastore_db with class loader sun.misc.Launcher$AppClassLoader@7d4991ad 
+Loaded from file:/home/fx/env/spark-1.3.0-bin-hadoop2.4/lib/spark-assembly-1.3.0-hadoop2.4.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_232-8u232-b09-0ubuntu1~18.04.1-b09
+user.dir=/home/fx/work/Learning_Spark/ch09
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-74-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

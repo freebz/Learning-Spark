@@ -1,0 +1,4 @@
+// 예제 9-21 입력 레코드
+
+{"name": "Holden"}
+{"name": "Sparky The Bear", "lovesPandas":true, "knows":{"friends": ["holden"]}}
